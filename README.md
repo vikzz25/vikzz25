@@ -28,6 +28,25 @@ Building projects that combine:
 *Early days. Serious commitment.*
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasvb&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasvb&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vikasvb&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasbankar)
+
+---
 
 ## 🧰 Tech Stack
 
